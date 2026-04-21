@@ -22,14 +22,6 @@ This project showcases structured layouts, a product grid system, and a minimal 
 
 ---
 
-## 📸 Preview
-
-![Preview](./preview.png)
-
-> Replace `preview.png` with your actual project screenshot.
-
----
-
 ## 📂 Project Structure
 
 ```
